@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.1P_Iteration_5", "7.1P_Iteration_5\7.1P_Iteration_5.csproj", "{1594A9E9-923D-4F16-BA62-862A494FD008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.1P_Iteration_5_Tests", "7.1P_Iteration_5_Tests\7.1P_Iteration_5_Tests.csproj", "{D08D0662-0A38-4C80-9354-DF03F7A3B036}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1594A9E9-923D-4F16-BA62-862A494FD008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1594A9E9-923D-4F16-BA62-862A494FD008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1594A9E9-923D-4F16-BA62-862A494FD008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1594A9E9-923D-4F16-BA62-862A494FD008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D08D0662-0A38-4C80-9354-DF03F7A3B036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08D0662-0A38-4C80-9354-DF03F7A3B036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08D0662-0A38-4C80-9354-DF03F7A3B036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08D0662-0A38-4C80-9354-DF03F7A3B036}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5FD2FD1-501A-4221-98CD-B4E50F8CCA5A}
+	EndGlobalSection
+EndGlobal
