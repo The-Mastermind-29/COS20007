@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\10.1c_iteration_8\\10.1c_iteration_8\\identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|solutionrelative:10.1c_iteration_8\\identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\10.1c_iteration_8\\10.1c_iteration_8\\ihaveinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|solutionrelative:10.1c_iteration_8\\ihaveinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\10.1c_iteration_8\\10.1c_iteration_8\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|solutionrelative:10.1c_iteration_8\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\10.1c_iteration_8\\10.1c_iteration_8\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|solutionrelative:10.1c_iteration_8\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\10.1c_iteration_8\\10.1c_iteration_8\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|solutionrelative:10.1c_iteration_8\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\10.1c_iteration_8\\10.1c_iteration_8\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|solutionrelative:10.1c_iteration_8\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\10.1c_iteration_8\\10.1c_iteration_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|solutionrelative:10.1c_iteration_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\10.1c_iteration_8\\10.1c_iteration_8\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|solutionrelative:10.1c_iteration_8\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\10.1c_iteration_8\\10.1c_iteration_8\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|solutionrelative:10.1c_iteration_8\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\10.1c_iteration_8\\10.1c_iteration_8\\movecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|solutionrelative:10.1c_iteration_8\\movecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\10.1c_iteration_8\\10.1c_iteration_8\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|solutionrelative:10.1c_iteration_8\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\10.1c_iteration_8\\10.1c_iteration_8\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|solutionrelative:10.1c_iteration_8\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\10.1c_iteration_8\\10.1c_iteration_8\\commandprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|solutionrelative:10.1c_iteration_8\\commandprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\10.1c_iteration_8\\10.1c_iteration_8\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC42E522-0A22-43D9-8FB8-21F776045F07}|10.1C_Iteration_8\\10.1C_Iteration_8.csproj|solutionrelative:10.1c_iteration_8\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A34EFF9-010E-4BF3-9E70-798774F6A161}|10.1C_Iteration_8_Tests\\10.1C_Iteration_8_Tests.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\10.1c_iteration_8\\10.1c_iteration_8_tests\\commandprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A34EFF9-010E-4BF3-9E70-798774F6A161}|10.1C_Iteration_8_Tests\\10.1C_Iteration_8_Tests.csproj|solutionrelative:10.1c_iteration_8_tests\\commandprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A34EFF9-010E-4BF3-9E70-798774F6A161}|10.1C_Iteration_8_Tests\\10.1C_Iteration_8_Tests.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\10.1c_iteration_8\\10.1c_iteration_8_tests\\playertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A34EFF9-010E-4BF3-9E70-798774F6A161}|10.1C_Iteration_8_Tests\\10.1C_Iteration_8_Tests.csproj|solutionrelative:10.1c_iteration_8_tests\\playertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A34EFF9-010E-4BF3-9E70-798774F6A161}|10.1C_Iteration_8_Tests\\10.1C_Iteration_8_Tests.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\10.1c_iteration_8\\10.1c_iteration_8_tests\\pathtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A34EFF9-010E-4BF3-9E70-798774F6A161}|10.1C_Iteration_8_Tests\\10.1C_Iteration_8_Tests.csproj|solutionrelative:10.1c_iteration_8_tests\\pathtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A34EFF9-010E-4BF3-9E70-798774F6A161}|10.1C_Iteration_8_Tests\\10.1C_Iteration_8_Tests.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\10.1c_iteration_8\\10.1c_iteration_8_tests\\movecommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A34EFF9-010E-4BF3-9E70-798774F6A161}|10.1C_Iteration_8_Tests\\10.1C_Iteration_8_Tests.csproj|solutionrelative:10.1c_iteration_8_tests\\movecommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A34EFF9-010E-4BF3-9E70-798774F6A161}|10.1C_Iteration_8_Tests\\10.1C_Iteration_8_Tests.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\10.1c_iteration_8\\10.1c_iteration_8_tests\\lookcommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A34EFF9-010E-4BF3-9E70-798774F6A161}|10.1C_Iteration_8_Tests\\10.1C_Iteration_8_Tests.csproj|solutionrelative:10.1c_iteration_8_tests\\lookcommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A34EFF9-010E-4BF3-9E70-798774F6A161}|10.1C_Iteration_8_Tests\\10.1C_Iteration_8_Tests.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\10.1c_iteration_8\\10.1c_iteration_8_tests\\locationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A34EFF9-010E-4BF3-9E70-798774F6A161}|10.1C_Iteration_8_Tests\\10.1C_Iteration_8_Tests.csproj|solutionrelative:10.1c_iteration_8_tests\\locationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A34EFF9-010E-4BF3-9E70-798774F6A161}|10.1C_Iteration_8_Tests\\10.1C_Iteration_8_Tests.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\10.1c_iteration_8\\10.1c_iteration_8_tests\\itemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A34EFF9-010E-4BF3-9E70-798774F6A161}|10.1C_Iteration_8_Tests\\10.1C_Iteration_8_Tests.csproj|solutionrelative:10.1c_iteration_8_tests\\itemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A34EFF9-010E-4BF3-9E70-798774F6A161}|10.1C_Iteration_8_Tests\\10.1C_Iteration_8_Tests.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\10.1c_iteration_8\\10.1c_iteration_8_tests\\inventorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A34EFF9-010E-4BF3-9E70-798774F6A161}|10.1C_Iteration_8_Tests\\10.1C_Iteration_8_Tests.csproj|solutionrelative:10.1c_iteration_8_tests\\inventorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A34EFF9-010E-4BF3-9E70-798774F6A161}|10.1C_Iteration_8_Tests\\10.1C_Iteration_8_Tests.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\10.1c_iteration_8\\10.1c_iteration_8_tests\\bagtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A34EFF9-010E-4BF3-9E70-798774F6A161}|10.1C_Iteration_8_Tests\\10.1C_Iteration_8_Tests.csproj|solutionrelative:10.1c_iteration_8_tests\\bagtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\Item.cs",
+              "RelativeDocumentMoniker": "10.1C_Iteration_8\\Item.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\Item.cs",
+              "RelativeToolTip": "10.1C_Iteration_8\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:22:06.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IHaveInventory.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\IHaveInventory.cs",
+              "RelativeDocumentMoniker": "10.1C_Iteration_8\\IHaveInventory.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\IHaveInventory.cs",
+              "RelativeToolTip": "10.1C_Iteration_8\\IHaveInventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:19:59.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\Inventory.cs",
+              "RelativeDocumentMoniker": "10.1C_Iteration_8\\Inventory.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\Inventory.cs",
+              "RelativeToolTip": "10.1C_Iteration_8\\Inventory.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:21:38.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\GameObject.cs",
+              "RelativeDocumentMoniker": "10.1C_Iteration_8\\GameObject.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\GameObject.cs",
+              "RelativeToolTip": "10.1C_Iteration_8\\GameObject.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:14:25.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdentifiableObject.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\IdentifiableObject.cs",
+              "RelativeDocumentMoniker": "10.1C_Iteration_8\\IdentifiableObject.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\IdentifiableObject.cs",
+              "RelativeToolTip": "10.1C_Iteration_8\\IdentifiableObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:18:08.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\Location.cs",
+              "RelativeDocumentMoniker": "10.1C_Iteration_8\\Location.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\Location.cs",
+              "RelativeToolTip": "10.1C_Iteration_8\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:22:50.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\LookCommand.cs",
+              "RelativeDocumentMoniker": "10.1C_Iteration_8\\LookCommand.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\LookCommand.cs",
+              "RelativeToolTip": "10.1C_Iteration_8\\LookCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:06:18.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MoveCommand.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\MoveCommand.cs",
+              "RelativeDocumentMoniker": "10.1C_Iteration_8\\MoveCommand.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\MoveCommand.cs",
+              "RelativeToolTip": "10.1C_Iteration_8\\MoveCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:06:43.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Path.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\Path.cs",
+              "RelativeDocumentMoniker": "10.1C_Iteration_8\\Path.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\Path.cs",
+              "RelativeToolTip": "10.1C_Iteration_8\\Path.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:07:21.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\Player.cs",
+              "RelativeDocumentMoniker": "10.1C_Iteration_8\\Player.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\Player.cs",
+              "RelativeToolTip": "10.1C_Iteration_8\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:08:17.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\Program.cs",
+              "RelativeDocumentMoniker": "10.1C_Iteration_8\\Program.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\Program.cs",
+              "RelativeToolTip": "10.1C_Iteration_8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:09:54.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bag.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\Bag.cs",
+              "RelativeDocumentMoniker": "10.1C_Iteration_8\\Bag.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\Bag.cs",
+              "RelativeToolTip": "10.1C_Iteration_8\\Bag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:10:46.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CommandProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\CommandProcessor.cs",
+              "RelativeDocumentMoniker": "10.1C_Iteration_8\\CommandProcessor.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\CommandProcessor.cs",
+              "RelativeToolTip": "10.1C_Iteration_8\\CommandProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:19:49.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\Command.cs",
+              "RelativeDocumentMoniker": "10.1C_Iteration_8\\Command.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8\\Command.cs",
+              "RelativeToolTip": "10.1C_Iteration_8\\Command.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:11:28.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LookCommandTests.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8_Tests\\LookCommandTests.cs",
+              "RelativeDocumentMoniker": "10.1C_Iteration_8_Tests\\LookCommandTests.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8_Tests\\LookCommandTests.cs",
+              "RelativeToolTip": "10.1C_Iteration_8_Tests\\LookCommandTests.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAqwFIAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:14:31.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MoveCommandTests.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8_Tests\\MoveCommandTests.cs",
+              "RelativeDocumentMoniker": "10.1C_Iteration_8_Tests\\MoveCommandTests.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8_Tests\\MoveCommandTests.cs",
+              "RelativeToolTip": "10.1C_Iteration_8_Tests\\MoveCommandTests.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAuwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:16:12.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LocationTests.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8_Tests\\LocationTests.cs",
+              "RelativeDocumentMoniker": "10.1C_Iteration_8_Tests\\LocationTests.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8_Tests\\LocationTests.cs",
+              "RelativeToolTip": "10.1C_Iteration_8_Tests\\LocationTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:12:46.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CommandProcessorTests.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8_Tests\\CommandProcessorTests.cs",
+              "RelativeDocumentMoniker": "10.1C_Iteration_8_Tests\\CommandProcessorTests.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8_Tests\\CommandProcessorTests.cs",
+              "RelativeToolTip": "10.1C_Iteration_8_Tests\\CommandProcessorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:11:06.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlayerTests.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8_Tests\\PlayerTests.cs",
+              "RelativeDocumentMoniker": "10.1C_Iteration_8_Tests\\PlayerTests.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8_Tests\\PlayerTests.cs",
+              "RelativeToolTip": "10.1C_Iteration_8_Tests\\PlayerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:19:10.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PathTests.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8_Tests\\PathTests.cs",
+              "RelativeDocumentMoniker": "10.1C_Iteration_8_Tests\\PathTests.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8_Tests\\PathTests.cs",
+              "RelativeToolTip": "10.1C_Iteration_8_Tests\\PathTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:18:20.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ItemTests.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8_Tests\\ItemTests.cs",
+              "RelativeDocumentMoniker": "10.1C_Iteration_8_Tests\\ItemTests.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8_Tests\\ItemTests.cs",
+              "RelativeToolTip": "10.1C_Iteration_8_Tests\\ItemTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:12:12.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InventoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8_Tests\\InventoryTests.cs",
+              "RelativeDocumentMoniker": "10.1C_Iteration_8_Tests\\InventoryTests.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8_Tests\\InventoryTests.cs",
+              "RelativeToolTip": "10.1C_Iteration_8_Tests\\InventoryTests.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAqwDEAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:11:13.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BagTests.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8_Tests\\BagTests.cs",
+              "RelativeDocumentMoniker": "10.1C_Iteration_8_Tests\\BagTests.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\10.1C_Iteration_8\\10.1C_Iteration_8_Tests\\BagTests.cs",
+              "RelativeToolTip": "10.1C_Iteration_8_Tests\\BagTests.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAuwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:10:08.663Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

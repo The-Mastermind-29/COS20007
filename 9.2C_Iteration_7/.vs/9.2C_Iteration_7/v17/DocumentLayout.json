@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA36BD1-2CAB-46FB-AC09-6658EF7AD5F6}|9.2C_Iteration_7_Tests\\9.2C_Iteration_7_Tests.csproj|c:\\users\\vishn\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\9.2c_iteration_7\\9.2c_iteration_7_tests\\movecommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA36BD1-2CAB-46FB-AC09-6658EF7AD5F6}|9.2C_Iteration_7_Tests\\9.2C_Iteration_7_Tests.csproj|solutionrelative:9.2c_iteration_7_tests\\movecommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA36BD1-2CAB-46FB-AC09-6658EF7AD5F6}|9.2C_Iteration_7_Tests\\9.2C_Iteration_7_Tests.csproj|c:\\users\\vishn\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\9.2c_iteration_7\\9.2c_iteration_7_tests\\pathtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA36BD1-2CAB-46FB-AC09-6658EF7AD5F6}|9.2C_Iteration_7_Tests\\9.2C_Iteration_7_Tests.csproj|solutionrelative:9.2c_iteration_7_tests\\pathtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|c:\\users\\vishn\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\9.2c_iteration_7\\9.2c_iteration_7\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|solutionrelative:9.2c_iteration_7\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|c:\\users\\vishn\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\9.2c_iteration_7\\9.2c_iteration_7\\movecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|solutionrelative:9.2c_iteration_7\\movecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|c:\\users\\vishn\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\9.2c_iteration_7\\9.2c_iteration_7\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|solutionrelative:9.2c_iteration_7\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|c:\\users\\vishn\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\9.2c_iteration_7\\9.2c_iteration_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|solutionrelative:9.2c_iteration_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA36BD1-2CAB-46FB-AC09-6658EF7AD5F6}|9.2C_Iteration_7_Tests\\9.2C_Iteration_7_Tests.csproj|c:\\users\\vishn\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\9.2c_iteration_7\\9.2c_iteration_7_tests\\lookcommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA36BD1-2CAB-46FB-AC09-6658EF7AD5F6}|9.2C_Iteration_7_Tests\\9.2C_Iteration_7_Tests.csproj|solutionrelative:9.2c_iteration_7_tests\\lookcommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA36BD1-2CAB-46FB-AC09-6658EF7AD5F6}|9.2C_Iteration_7_Tests\\9.2C_Iteration_7_Tests.csproj|c:\\users\\vishn\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\9.2c_iteration_7\\9.2c_iteration_7_tests\\locationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA36BD1-2CAB-46FB-AC09-6658EF7AD5F6}|9.2C_Iteration_7_Tests\\9.2C_Iteration_7_Tests.csproj|solutionrelative:9.2c_iteration_7_tests\\locationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA36BD1-2CAB-46FB-AC09-6658EF7AD5F6}|9.2C_Iteration_7_Tests\\9.2C_Iteration_7_Tests.csproj|c:\\users\\vishn\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\9.2c_iteration_7\\9.2c_iteration_7_tests\\inventorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA36BD1-2CAB-46FB-AC09-6658EF7AD5F6}|9.2C_Iteration_7_Tests\\9.2C_Iteration_7_Tests.csproj|solutionrelative:9.2c_iteration_7_tests\\inventorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA36BD1-2CAB-46FB-AC09-6658EF7AD5F6}|9.2C_Iteration_7_Tests\\9.2C_Iteration_7_Tests.csproj|c:\\users\\vishn\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\9.2c_iteration_7\\9.2c_iteration_7_tests\\bagtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA36BD1-2CAB-46FB-AC09-6658EF7AD5F6}|9.2C_Iteration_7_Tests\\9.2C_Iteration_7_Tests.csproj|solutionrelative:9.2c_iteration_7_tests\\bagtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|c:\\users\\vishn\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\9.2c_iteration_7\\9.2c_iteration_7\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|solutionrelative:9.2c_iteration_7\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|c:\\users\\vishn\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\9.2c_iteration_7\\9.2c_iteration_7\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|solutionrelative:9.2c_iteration_7\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|c:\\users\\vishn\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\9.2c_iteration_7\\9.2c_iteration_7\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|solutionrelative:9.2c_iteration_7\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|c:\\users\\vishn\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\9.2c_iteration_7\\9.2c_iteration_7\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|solutionrelative:9.2c_iteration_7\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|c:\\users\\vishn\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\9.2c_iteration_7\\9.2c_iteration_7\\ihaveinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|solutionrelative:9.2c_iteration_7\\ihaveinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|c:\\users\\vishn\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\9.2c_iteration_7\\9.2c_iteration_7\\identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|solutionrelative:9.2c_iteration_7\\identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|c:\\users\\vishn\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\9.2c_iteration_7\\9.2c_iteration_7\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|solutionrelative:9.2c_iteration_7\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|c:\\users\\vishn\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\9.2c_iteration_7\\9.2c_iteration_7\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|solutionrelative:9.2c_iteration_7\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|c:\\users\\vishn\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\9.2c_iteration_7\\9.2c_iteration_7\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717ACE92-DE62-41D8-8256-3BF634E45CF4}|9.2C_Iteration_7\\9.2C_Iteration_7.csproj|solutionrelative:9.2c_iteration_7\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\Program.cs",
+              "RelativeDocumentMoniker": "9.2C_Iteration_7\\Program.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\Program.cs",
+              "RelativeToolTip": "9.2C_Iteration_7\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACIAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:37:29.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LocationTests.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7_Tests\\LocationTests.cs",
+              "RelativeDocumentMoniker": "9.2C_Iteration_7_Tests\\LocationTests.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7_Tests\\LocationTests.cs",
+              "RelativeToolTip": "9.2C_Iteration_7_Tests\\LocationTests.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:59:32.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoveCommandTests.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7_Tests\\MoveCommandTests.cs",
+              "RelativeDocumentMoniker": "9.2C_Iteration_7_Tests\\MoveCommandTests.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7_Tests\\MoveCommandTests.cs",
+              "RelativeToolTip": "9.2C_Iteration_7_Tests\\MoveCommandTests.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwEIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:05:42.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LookCommandTests.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7_Tests\\LookCommandTests.cs",
+              "RelativeDocumentMoniker": "9.2C_Iteration_7_Tests\\LookCommandTests.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7_Tests\\LookCommandTests.cs",
+              "RelativeToolTip": "9.2C_Iteration_7_Tests\\LookCommandTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T03:14:24.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PathTest.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7_Tests\\PathTest.cs",
+              "RelativeDocumentMoniker": "9.2C_Iteration_7_Tests\\PathTest.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7_Tests\\PathTest.cs",
+              "RelativeToolTip": "9.2C_Iteration_7_Tests\\PathTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:05:50.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Path.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\Path.cs",
+              "RelativeDocumentMoniker": "9.2C_Iteration_7\\Path.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\Path.cs",
+              "RelativeToolTip": "9.2C_Iteration_7\\Path.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:09:46.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\Player.cs",
+              "RelativeDocumentMoniker": "9.2C_Iteration_7\\Player.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\Player.cs",
+              "RelativeToolTip": "9.2C_Iteration_7\\Player.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:42:54.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoveCommand.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\MoveCommand.cs",
+              "RelativeDocumentMoniker": "9.2C_Iteration_7\\MoveCommand.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\MoveCommand.cs",
+              "RelativeToolTip": "9.2C_Iteration_7\\MoveCommand.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:19:16.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7_Tests\\InventoryTests.cs",
+              "RelativeDocumentMoniker": "9.2C_Iteration_7_Tests\\InventoryTests.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7_Tests\\InventoryTests.cs",
+              "RelativeToolTip": "9.2C_Iteration_7_Tests\\InventoryTests.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAD8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:09:06.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BagTests.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7_Tests\\BagTests.cs",
+              "RelativeDocumentMoniker": "9.2C_Iteration_7_Tests\\BagTests.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7_Tests\\BagTests.cs",
+              "RelativeToolTip": "9.2C_Iteration_7_Tests\\BagTests.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:09:36.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\LookCommand.cs",
+              "RelativeDocumentMoniker": "9.2C_Iteration_7\\LookCommand.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\LookCommand.cs",
+              "RelativeToolTip": "9.2C_Iteration_7\\LookCommand.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwCQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:42:29.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\Location.cs",
+              "RelativeDocumentMoniker": "9.2C_Iteration_7\\Location.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\Location.cs",
+              "RelativeToolTip": "9.2C_Iteration_7\\Location.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAYwFIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:42:07.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\Item.cs",
+              "RelativeDocumentMoniker": "9.2C_Iteration_7\\Item.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\Item.cs",
+              "RelativeToolTip": "9.2C_Iteration_7\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:41:49.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\Inventory.cs",
+              "RelativeDocumentMoniker": "9.2C_Iteration_7\\Inventory.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\Inventory.cs",
+              "RelativeToolTip": "9.2C_Iteration_7\\Inventory.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:41:25.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IHaveInventory.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\IHaveInventory.cs",
+              "RelativeDocumentMoniker": "9.2C_Iteration_7\\IHaveInventory.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\IHaveInventory.cs",
+              "RelativeToolTip": "9.2C_Iteration_7\\IHaveInventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:41:03.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IdentifiableObject.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\IdentifiableObject.cs",
+              "RelativeDocumentMoniker": "9.2C_Iteration_7\\IdentifiableObject.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\IdentifiableObject.cs",
+              "RelativeToolTip": "9.2C_Iteration_7\\IdentifiableObject.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:40:35.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\GameObject.cs",
+              "RelativeDocumentMoniker": "9.2C_Iteration_7\\GameObject.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\GameObject.cs",
+              "RelativeToolTip": "9.2C_Iteration_7\\GameObject.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:40:06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\Command.cs",
+              "RelativeDocumentMoniker": "9.2C_Iteration_7\\Command.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\Command.cs",
+              "RelativeToolTip": "9.2C_Iteration_7\\Command.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:39:41.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Bag.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\Bag.cs",
+              "RelativeDocumentMoniker": "9.2C_Iteration_7\\Bag.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\9.2C_Iteration_7\\9.2C_Iteration_7\\Bag.cs",
+              "RelativeToolTip": "9.2C_Iteration_7\\Bag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:39:14.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

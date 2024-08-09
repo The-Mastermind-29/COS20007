@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\5.3C_Drawing_Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1863CD7-4EDF-4631-B739-5965FD2A2A88}|5.3C_Drawing_Program\\5.3C_Drawing_Program.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\5.3c_drawing_program\\5.3c_drawing_program\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1863CD7-4EDF-4631-B739-5965FD2A2A88}|5.3C_Drawing_Program\\5.3C_Drawing_Program.csproj|solutionrelative:5.3c_drawing_program\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1863CD7-4EDF-4631-B739-5965FD2A2A88}|5.3C_Drawing_Program\\5.3C_Drawing_Program.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\5.3c_drawing_program\\5.3c_drawing_program\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1863CD7-4EDF-4631-B739-5965FD2A2A88}|5.3C_Drawing_Program\\5.3C_Drawing_Program.csproj|solutionrelative:5.3c_drawing_program\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1863CD7-4EDF-4631-B739-5965FD2A2A88}|5.3C_Drawing_Program\\5.3C_Drawing_Program.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\5.3c_drawing_program\\5.3c_drawing_program\\mycircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1863CD7-4EDF-4631-B739-5965FD2A2A88}|5.3C_Drawing_Program\\5.3C_Drawing_Program.csproj|solutionrelative:5.3c_drawing_program\\mycircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1863CD7-4EDF-4631-B739-5965FD2A2A88}|5.3C_Drawing_Program\\5.3C_Drawing_Program.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\5.3c_drawing_program\\5.3c_drawing_program\\myline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1863CD7-4EDF-4631-B739-5965FD2A2A88}|5.3C_Drawing_Program\\5.3C_Drawing_Program.csproj|solutionrelative:5.3c_drawing_program\\myline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1863CD7-4EDF-4631-B739-5965FD2A2A88}|5.3C_Drawing_Program\\5.3C_Drawing_Program.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\5.3c_drawing_program\\5.3c_drawing_program\\myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1863CD7-4EDF-4631-B739-5965FD2A2A88}|5.3C_Drawing_Program\\5.3C_Drawing_Program.csproj|solutionrelative:5.3c_drawing_program\\myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1863CD7-4EDF-4631-B739-5965FD2A2A88}|5.3C_Drawing_Program\\5.3C_Drawing_Program.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\5.3c_drawing_program\\5.3c_drawing_program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1863CD7-4EDF-4631-B739-5965FD2A2A88}|5.3C_Drawing_Program\\5.3C_Drawing_Program.csproj|solutionrelative:5.3c_drawing_program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1863CD7-4EDF-4631-B739-5965FD2A2A88}|5.3C_Drawing_Program\\5.3C_Drawing_Program.csproj|c:\\users\\kisha\\onedrive\\old-desktop\\university stuff\\2024\\1st sem\\cos20007\\week 1\\5.3c_drawing_program\\5.3c_drawing_program\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1863CD7-4EDF-4631-B739-5965FD2A2A88}|5.3C_Drawing_Program\\5.3C_Drawing_Program.csproj|solutionrelative:5.3c_drawing_program\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\5.3C_Drawing_Program\\5.3C_Drawing_Program\\Shape.cs",
+              "RelativeDocumentMoniker": "5.3C_Drawing_Program\\Shape.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\5.3C_Drawing_Program\\5.3C_Drawing_Program\\Shape.cs",
+              "RelativeToolTip": "5.3C_Drawing_Program\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:30:53.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyRectangle.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\5.3C_Drawing_Program\\5.3C_Drawing_Program\\MyRectangle.cs",
+              "RelativeDocumentMoniker": "5.3C_Drawing_Program\\MyRectangle.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\5.3C_Drawing_Program\\5.3C_Drawing_Program\\MyRectangle.cs",
+              "RelativeToolTip": "5.3C_Drawing_Program\\MyRectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:28:47.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyLine.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\5.3C_Drawing_Program\\5.3C_Drawing_Program\\MyLine.cs",
+              "RelativeDocumentMoniker": "5.3C_Drawing_Program\\MyLine.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\5.3C_Drawing_Program\\5.3C_Drawing_Program\\MyLine.cs",
+              "RelativeToolTip": "5.3C_Drawing_Program\\MyLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:27:49.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyCircle.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\5.3C_Drawing_Program\\5.3C_Drawing_Program\\MyCircle.cs",
+              "RelativeDocumentMoniker": "5.3C_Drawing_Program\\MyCircle.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\5.3C_Drawing_Program\\5.3C_Drawing_Program\\MyCircle.cs",
+              "RelativeToolTip": "5.3C_Drawing_Program\\MyCircle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:25:52.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtensionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\5.3C_Drawing_Program\\5.3C_Drawing_Program\\ExtensionMethods.cs",
+              "RelativeDocumentMoniker": "5.3C_Drawing_Program\\ExtensionMethods.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\5.3C_Drawing_Program\\5.3C_Drawing_Program\\ExtensionMethods.cs",
+              "RelativeToolTip": "5.3C_Drawing_Program\\ExtensionMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:24:44.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Drawing.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\5.3C_Drawing_Program\\5.3C_Drawing_Program\\Drawing.cs",
+              "RelativeDocumentMoniker": "5.3C_Drawing_Program\\Drawing.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\5.3C_Drawing_Program\\5.3C_Drawing_Program\\Drawing.cs",
+              "RelativeToolTip": "5.3C_Drawing_Program\\Drawing.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:23:10.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\5.3C_Drawing_Program\\5.3C_Drawing_Program\\Program.cs",
+              "RelativeDocumentMoniker": "5.3C_Drawing_Program\\Program.cs",
+              "ToolTip": "C:\\Users\\kisha\\OneDrive\\Old-Desktop\\University stuff\\2024\\1st Sem\\COS20007\\Week 1\\5.3C_Drawing_Program\\5.3C_Drawing_Program\\Program.cs",
+              "RelativeToolTip": "5.3C_Drawing_Program\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:22:57.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
